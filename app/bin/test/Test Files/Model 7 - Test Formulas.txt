@@ -1,0 +1,14 @@
+s1;A(p U q);False
+s2;A(p U q);False
+s3;A(p U q);True
+s4;A(p U q);True
+s5;A(p U q);False
+s6;A(p U q);True
+s7;A(p U q);True
+s1;E(p U q);True
+s2;E(p U q);True
+s3;E(p U q);True
+s4;E(p U q);True
+s5;E(p U q);False
+s6;E(p U q);True
+s7;E(p U q);True

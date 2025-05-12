@@ -1,0 +1,42 @@
+s1;start;False
+s2;start;True
+s3;start;False
+s4;start;False
+s5;start;True
+s6;start;True
+s7;start;True
+s1;(not heat);True
+s2;(not heat);True
+s3;(not heat);True
+s4;(not heat);False
+s5;(not heat);True
+s6;(not heat);True
+s7;(not heat);False
+s1;EG(not heat);True
+s2;EG(not heat);True
+s3;EG(not heat);True
+s4;EG(not heat);False
+s5;EG(not heat);True
+s6;EG(not heat);False
+s7;EG(not heat);False
+s1;(start and EG(not heat));False
+s2;(start and EG(not heat));True
+s3;(start and EG(not heat));False
+s4;(start and EG(not heat));False
+s5;(start and EG(not heat));True
+s6;(start and EG(not heat));False
+s7;(start and EG(not heat));False
+s1;EF(start and EG(not heat));True
+s2;EF(start and EG(not heat));True
+s3;EF(start and EG(not heat));True
+s4;EF(start and EG(not heat));True
+s5;EF(start and EG(not heat));True
+s6;EF(start and EG(not heat));True
+s7;EF(start and EG(not heat));True
+s1;(not EF(start and EG(not heat)));False
+s2;(not EF(start and EG(not heat)));False
+s3;(not EF(start and EG(not heat)));False
+s4;(not EF(start and EG(not heat)));False
+s5;(not EF(start and EG(not heat)));False
+s6;(not EF(start and EG(not heat)));False
+s7;(not EF(start and EG(not heat)));False

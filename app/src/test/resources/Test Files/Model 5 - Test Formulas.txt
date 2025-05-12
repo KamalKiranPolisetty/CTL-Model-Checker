@@ -1,0 +1,14 @@
+s1;AXp;True
+s2;AXp;False
+s3;AXp;False
+s4;AXp;False
+s5;AXp;False
+s6;AXp;False
+s7;AXp;False
+s1;EXp;True
+s2;EXp;True
+s3;EXp;False
+s4;EXp;False
+s5;EXp;False
+s6;EXp;False
+s7;EXp;False

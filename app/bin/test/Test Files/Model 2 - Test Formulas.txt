@@ -1,0 +1,24 @@
+﻿s0;AFq;True
+s1;AFq;False
+s2;AFq;True
+s3;AFq;True
+s0;AG(EF(p or r));True
+s1;AG(EF(p or r));True
+s2;AG(EF(p or r));True
+s3;AG(EF(p or r));True
+s0;EXr;True
+s1;EXr;True
+s2;EXr;True
+s3;EXr;False
+s0;EX(EXr);True
+s1;EX(EXr);True
+s2;EX(EXr);True
+s3;EX(EXr);True
+s0;AXr;True
+s1;AXr;False
+s2;AXr;False
+s3;AXr;False
+s0;AG(AFq);False
+s1;AG(AFq);False
+s2;AG(AFq);False
+s3;AG(AFq);False

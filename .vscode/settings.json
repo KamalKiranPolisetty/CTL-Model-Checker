@@ -1,0 +1,16 @@
+{
+    "files.exclude": {
+      "**/.gradle": true,
+      "**/gradlew": true,
+      "**/gradlew.bat": true,
+      "**/gradle.properties": true,
+      "**/gradle": true,
+      "**/build": true,         // This hides the build directory
+      "**/.gitignore": true,
+      "**/.gitattributes": true,   // This hides the .gitignore file
+      "**/settings.gradle": true, // Hides settings.gradle files
+      "**/settings.gradle.kts": true, // Hides settings.gradle.kts if using Kotlin DSL
+      "**/build.gradle.kts": true,
+      "**/gradle/**": true
+    }
+  }

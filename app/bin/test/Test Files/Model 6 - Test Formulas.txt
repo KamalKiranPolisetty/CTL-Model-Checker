@@ -1,0 +1,14 @@
+s1;AFp;False
+s2;AFp;True
+s3;AFp;False
+s4;AFp;True
+s5;AFp;True
+s6;AFp;True
+s7;AFp;False
+s1;EFp;True
+s2;EFp;True
+s3;EFp;True
+s4;EFp;True
+s5;EFp;True
+s6;EFp;True
+s7;EFp;False
